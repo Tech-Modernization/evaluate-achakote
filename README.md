@@ -1,6 +1,7 @@
 # API Gateway Example
 
 
+
 ### Deployment process.
 
 * To create pipeline stack using below command.
